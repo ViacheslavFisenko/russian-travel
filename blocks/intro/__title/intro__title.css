@@ -4,10 +4,9 @@ font-weight: 900;
 font-size: 54px;
 line-height: 58px;
 color: #FFFFFF;
-margin: 0;
 width: 690px;
 height: 58px;
-margin: 92px 0 40px ;
+margin: 92px 0 40px;
 }
 
 @media (max-width: 1023px) {
