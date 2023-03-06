@@ -11,7 +11,7 @@ margin: 92px 0 40px;
 
 @media (max-width: 1023px) {
   .intro__title {
-    margin: 88px 0 40px ;
+    margin: 88px 0 40px;
     width: 720px;
     height: 58px;
   }
@@ -19,7 +19,7 @@ margin: 92px 0 40px;
 
 @media (max-width: 767px) {
   .intro__title {
-    margin: 64px 0 40px ;
+    margin: 64px 0 40px;
     font-size: 32px;
     line-height: 1.1;
     width: 288px;
