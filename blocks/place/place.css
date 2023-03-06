@@ -5,7 +5,7 @@
   display: grid;
   grid-template-areas:
   "title website"
-  "image pargraph" ;
+  "image pargraph";
   row-gap: 48px;
   column-gap: 40px;
 }
@@ -37,7 +37,7 @@
     "title"
     "website"
     "image"
-    "pargraph" ;
+    "pargraph";
   }
   .place:nth-of-type(1) {
     margin-top: 64px;
