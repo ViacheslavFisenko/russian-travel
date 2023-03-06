@@ -36,5 +36,5 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/lead/__image-caption/lead__image-caption.css);
 @import url(../blocks/section/section.css);
-@import url(../blocks/section/__narow/section__narow.css);
+@import url(../blocks/section/section_narow/section_narow.css);
 @import url(../blocks/places/places.css);
