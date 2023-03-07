@@ -12,7 +12,6 @@
 
 @media (max-width: 1023px) {
   .intro {
-
-    align-items: center
+    align-items: center;
   }
 }
