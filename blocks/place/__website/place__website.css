@@ -5,17 +5,18 @@
 }
 
 @media (max-width: 1023px) {
-  .place__title {
+  .place__website {
     width: 352px;
     font-size: 42px;
     line-height: 46px;
-}
+  }
 }
 
 @media (max-width: 767px) {
-  .place__title {
+  .place__website {
     width: 288px;
     font-size: 32px;
     line-height: 35px;
-}
+    margin: 0 16px auto;
+  }
 }

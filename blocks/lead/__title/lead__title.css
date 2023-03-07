@@ -16,17 +16,10 @@
   }
 }
 
-@media (max-width: 1023px) {
-  .lead__title {
-    margin: 48px 0 0 0;
-  }
-}
-
 @media (max-width: 767px) {
   .lead__title {
-    margin: 48px 0 0 0;
     font-size: 40px;
     line-height: 44px;
     width: 288px;
-}
+  }
 }

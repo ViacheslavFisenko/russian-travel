@@ -3,6 +3,7 @@
   height: 52px;
   margin-top: 28px;
 }
+
 @media (max-width: 767px) {
   .header__logo {
     margin-top: 16px;
