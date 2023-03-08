@@ -10,7 +10,7 @@
   z-index: 0;
   text-decoration: none;
   object-fit: cover;
-  margin: 92px 0;
+  margin: 92px 0 0 0;
   background-image: url(../../../sprint-3-images/cover-trains.jpg);
   background-repeat: no-repeat;
   min-height: 740px;
@@ -41,7 +41,7 @@
 @media (max-width: 1279px) {
   .cover__overlay {
     width: 1024px;
-    margin: 92px 0 0;
+    margin: 92px 0 0 0;
     min-height: 640px;
   }
 }

@@ -2,24 +2,22 @@
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 26px;
   color: #FFFFFF;
   margin: 0;
   width: 100%;
   max-width: 690px;
-  min-height: 208px;
 }
 
 
 @media (max-width: 1023px) {
   .intro__text {
-    width: 720px;
+    max-width: 720px;
   }
 }
 
 @media (max-width: 767px) {
   .intro__text {
     width: 288px;
-    min-height: 520px;
   }
 }
