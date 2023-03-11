@@ -4,14 +4,13 @@
   font-size: 54px;
   line-height: 58px;
   color: #FFFFFF;
-  width: 690px;
+  width: 100%;
   margin: 92px 0 40px;
 }
 
 @media (max-width: 1023px) {
   .intro__title {
     margin: 88px 0 40px;
-    width: 720px;
   }
 }
 
@@ -20,6 +19,5 @@
     margin: 64px 0 40px;
     font-size: 32px;
     line-height: 1.1;
-    width: 288px; 
   }
 }

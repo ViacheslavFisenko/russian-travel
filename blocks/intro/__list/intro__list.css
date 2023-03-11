@@ -1,13 +1,12 @@
 .intro__list {
   margin: 33px 0 92px;
   padding: 0;
-  width: 690px;
+  width: 100%;
 }
 
 @media (max-width: 1023px) {
   .intro__list {
     margin: 33px 0 88px;
-    width: 720px;
   }
 }
 
@@ -16,6 +15,5 @@
     margin: 34px 0 64px;
     font-size: 32px;
     line-height: 1.5;
-    width: 288px;
   }
 }

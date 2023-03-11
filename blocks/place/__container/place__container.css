@@ -5,21 +5,15 @@
   gap: 27px;
 }
 
-@media (max-width: 1279px) {
-  .place__container {
-    width: 456px;
-  }
-}
+
 @media (max-width: 1023px) {
   .place__container {
-    width: 352px;
     gap: 25px;
-}
+  }
 }
 
 @media (max-width: 767px) {
   .place__container {
-    width: 288px;
     margin: 0 16px auto;
-}
+  }
 }

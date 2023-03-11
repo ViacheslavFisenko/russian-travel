@@ -1,4 +1,16 @@
 .lead__image-caption {
   margin: 0;
-  padding: 0;
+  padding: 0 148px;
+}
+
+@media (max-width: 1279px) {
+  .lead__image-caption {
+    padding: 0 48px;
+  }
+}
+
+@media (max-width: 1023px) {
+  .lead__image-caption {
+    padding: 0;
+  }
 }
